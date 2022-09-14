@@ -9,3 +9,41 @@
     padding: 0 10px;
 }
 
+.container{
+    display: flex;
+    justify-content: right;
+  }
+  
+  .picture{
+    position: absolute;
+    width: 590px;
+    height: 510px;
+    left: 411px;
+    top: 48px;
+  }
+  
+  .title{
+    position: absolute;
+    width: 393px;
+    height: 128px;
+    left: 239px;
+    top: 300px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 160%;
+    color: #000000;
+  }
+  
+  .text{
+    position: absolute;
+    width: 568px;
+    height: 160px;
+    left: 239px;
+    top: 430px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 180%;
+    color: #696984;
+  }
